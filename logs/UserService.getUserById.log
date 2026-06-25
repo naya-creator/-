@@ -1,0 +1,2 @@
+2026-06-18 11:16:44.910 UserService.getUserById | UserID: 1 | Args: (1) | Duration: 2108 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.911 [BOTTLENECK DETECTED] UserService.getUserById | UserID: 1 | Args: (1) | Duration: 2108 ms | CPU Load: 0.00 %

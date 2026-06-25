@@ -1,0 +1,2 @@
+2026-06-18 11:16:48.933 UserService.deductBalance | UserID: 1 | Args: (1, BigDecimal) | Duration: 1057 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.935 [BOTTLENECK DETECTED] UserService.deductBalance | UserID: 1 | Args: (1, BigDecimal) | Duration: 1057 ms | CPU Load: 0.00 %

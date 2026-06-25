@@ -1,0 +1,198 @@
+2026-06-18 11:16:42.192 OrderService.placeOrderAsync | UserID: 9 | Args: (9) | Duration: 2408 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.194 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 9 | Args: (9) | Duration: 2408 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.274 OrderService.placeOrderAsync | UserID: 11 | Args: (11) | Duration: 2522 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.275 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 11 | Args: (11) | Duration: 2522 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.282 OrderService.placeOrderAsync | UserID: 3 | Args: (3) | Duration: 2540 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.283 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 3 | Args: (3) | Duration: 2540 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.302 OrderService.placeOrderAsync | UserID: 5 | Args: (5) | Duration: 2561 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.302 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 5 | Args: (5) | Duration: 2561 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.319 OrderService.placeOrderAsync | UserID: 13 | Args: (13) | Duration: 2551 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.319 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 13 | Args: (13) | Duration: 2551 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.344 OrderService.placeOrderAsync | UserID: 4 | Args: (4) | Duration: 2564 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.344 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 4 | Args: (4) | Duration: 2564 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.361 OrderService.placeOrderAsync | UserID: 14 | Args: (14) | Duration: 2564 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.361 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 14 | Args: (14) | Duration: 2564 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.406 OrderService.placeOrderAsync | UserID: 16 | Args: (16) | Duration: 2598 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.406 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 16 | Args: (16) | Duration: 2598 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.487 OrderService.placeOrderAsync | UserID: 10 | Args: (10) | Duration: 2685 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.487 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 10 | Args: (10) | Duration: 2685 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.500 OrderService.placeOrderAsync | UserID: 61 | Args: (61) | Duration: 2418 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.500 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 61 | Args: (61) | Duration: 2418 ms | CPU Load: 14.33 %
+2026-06-18 11:16:42.652 OrderService.placeOrderAsync | UserID: 62 | Args: (62) | Duration: 2403 ms | CPU Load: 0.00 %
+2026-06-18 11:16:42.652 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 62 | Args: (62) | Duration: 2403 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.427 OrderService.placeOrderAsync | UserID: 63 | Args: (63) | Duration: 2926 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.427 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 63 | Args: (63) | Duration: 2926 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.605 OrderService.placeOrderAsync | UserID: 64 | Args: (64) | Duration: 2903 ms | CPU Load: 0.27 %
+2026-06-18 11:16:43.605 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 64 | Args: (64) | Duration: 2903 ms | CPU Load: 0.27 %
+2026-06-18 11:16:43.717 OrderService.placeOrderAsync | UserID: 65 | Args: (65) | Duration: 2938 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.717 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 65 | Args: (65) | Duration: 2938 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.761 OrderService.placeOrderAsync | UserID: 66 | Args: (66) | Duration: 2972 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.761 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 66 | Args: (66) | Duration: 2972 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.902 OrderService.placeOrderAsync | UserID: 77 | Args: (77) | Duration: 2877 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.902 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 77 | Args: (77) | Duration: 2877 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.917 OrderService.placeOrderAsync | UserID: 69 | Args: (69) | Duration: 3076 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.917 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 69 | Args: (69) | Duration: 3076 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.931 OrderService.placeOrderAsync | UserID: 68 | Args: (68) | Duration: 3085 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.932 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 68 | Args: (68) | Duration: 3085 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.957 OrderService.placeOrderAsync | UserID: 70 | Args: (70) | Duration: 3090 ms | CPU Load: 0.00 %
+2026-06-18 11:16:43.957 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 70 | Args: (70) | Duration: 3090 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.002 OrderService.placeOrderAsync | UserID: 71 | Args: (71) | Duration: 3130 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.002 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 71 | Args: (71) | Duration: 3130 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.023 OrderService.placeOrderAsync | UserID: 72 | Args: (72) | Duration: 3144 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.023 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 72 | Args: (72) | Duration: 3144 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.042 OrderService.placeOrderAsync | UserID: 73 | Args: (73) | Duration: 3148 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.042 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 73 | Args: (73) | Duration: 3148 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.079 OrderService.placeOrderAsync | UserID: 74 | Args: (74) | Duration: 3159 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.079 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 74 | Args: (74) | Duration: 3159 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.094 OrderService.placeOrderAsync | UserID: 75 | Args: (75) | Duration: 3177 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.094 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 75 | Args: (75) | Duration: 3177 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.117 OrderService.placeOrderAsync | UserID: 76 | Args: (76) | Duration: 3199 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.117 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 76 | Args: (76) | Duration: 3199 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.120 OrderService.placeOrderAsync | UserID: 67 | Args: (67) | Duration: 3419 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.120 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 67 | Args: (67) | Duration: 3419 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.130 OrderService.placeOrderAsync | UserID: 78 | Args: (78) | Duration: 3199 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.130 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 78 | Args: (78) | Duration: 3199 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.152 OrderService.placeOrderAsync | UserID: 80 | Args: (80) | Duration: 3188 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.153 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 80 | Args: (80) | Duration: 3188 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.163 OrderService.placeOrderAsync | UserID: 79 | Args: (79) | Duration: 3206 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.163 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 79 | Args: (79) | Duration: 3206 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.174 OrderService.placeOrderAsync | UserID: 81 | Args: (81) | Duration: 3212 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.175 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 81 | Args: (81) | Duration: 3212 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.187 OrderService.placeOrderAsync | UserID: 82 | Args: (82) | Duration: 3203 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.187 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 82 | Args: (82) | Duration: 3203 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.203 OrderService.placeOrderAsync | UserID: 83 | Args: (83) | Duration: 3217 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.204 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 83 | Args: (83) | Duration: 3217 ms | CPU Load: 0.00 %
+2026-06-18 11:16:44.216 OrderService.placeOrderAsync | UserID: 84 | Args: (84) | Duration: 3228 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.217 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 84 | Args: (84) | Duration: 3228 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.227 OrderService.placeOrderAsync | UserID: 86 | Args: (86) | Duration: 3230 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.227 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 86 | Args: (86) | Duration: 3230 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.233 OrderService.placeOrderAsync | UserID: 85 | Args: (85) | Duration: 3240 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.234 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 85 | Args: (85) | Duration: 3240 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.238 OrderService.placeOrderAsync | UserID: 87 | Args: (87) | Duration: 3238 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.238 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 87 | Args: (87) | Duration: 3238 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.247 OrderService.placeOrderAsync | UserID: 88 | Args: (88) | Duration: 3254 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.247 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 88 | Args: (88) | Duration: 3254 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.255 OrderService.placeOrderAsync | UserID: 90 | Args: (90) | Duration: 3247 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.255 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 90 | Args: (90) | Duration: 3247 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.261 OrderService.placeOrderAsync | UserID: 89 | Args: (89) | Duration: 3261 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.261 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 89 | Args: (89) | Duration: 3261 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.265 OrderService.placeOrderAsync | UserID: 91 | Args: (91) | Duration: 3261 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.265 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 91 | Args: (91) | Duration: 3261 ms | CPU Load: 3.76 %
+2026-06-18 11:16:44.270 OrderService.placeOrderAsync | UserID: 93 | Args: (93) | Duration: 3256 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.270 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 93 | Args: (93) | Duration: 3256 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.274 OrderService.placeOrderAsync | UserID: 95 | Args: (95) | Duration: 3259 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.274 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 95 | Args: (95) | Duration: 3259 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.279 OrderService.placeOrderAsync | UserID: 94 | Args: (94) | Duration: 3276 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.279 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 94 | Args: (94) | Duration: 3276 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.283 OrderService.placeOrderAsync | UserID: 92 | Args: (92) | Duration: 3288 ms | CPU Load: 4.86 %
+2026-06-18 11:16:44.283 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 92 | Args: (92) | Duration: 3288 ms | CPU Load: 4.86 %
+2026-06-18 11:16:44.289 OrderService.placeOrderAsync | UserID: 98 | Args: (98) | Duration: 3272 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.289 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 98 | Args: (98) | Duration: 3272 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.299 OrderService.placeOrderAsync | UserID: 96 | Args: (96) | Duration: 3300 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.299 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 96 | Args: (96) | Duration: 3300 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.319 OrderService.placeOrderAsync | UserID: 97 | Args: (97) | Duration: 3330 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.319 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 97 | Args: (97) | Duration: 3330 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.330 OrderService.placeOrderAsync | UserID: 99 | Args: (99) | Duration: 3351 ms | CPU Load: 17.37 %
+2026-06-18 11:16:44.330 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 99 | Args: (99) | Duration: 3351 ms | CPU Load: 17.37 %
+2026-06-18 11:16:45.568 OrderService.placeOrderAsync | UserID: 8 | Args: (8) | Duration: 1401 ms | CPU Load: 7.16 %
+2026-06-18 11:16:45.568 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 8 | Args: (8) | Duration: 1401 ms | CPU Load: 7.16 %
+2026-06-18 11:16:45.610 OrderService.placeOrderAsync | UserID: 15 | Args: (15) | Duration: 1354 ms | CPU Load: 7.16 %
+2026-06-18 11:16:45.610 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 15 | Args: (15) | Duration: 1354 ms | CPU Load: 7.16 %
+2026-06-18 11:16:45.637 OrderService.placeOrderAsync | UserID: 6 | Args: (6) | Duration: 1351 ms | CPU Load: 7.16 %
+2026-06-18 11:16:45.637 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 6 | Args: (6) | Duration: 1351 ms | CPU Load: 7.16 %
+2026-06-18 11:16:45.647 OrderService.placeOrderAsync | UserID: 7 | Args: (7) | Duration: 1347 ms | CPU Load: 7.16 %
+2026-06-18 11:16:45.647 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 7 | Args: (7) | Duration: 1347 ms | CPU Load: 7.16 %
+2026-06-18 11:16:45.659 OrderService.placeOrderAsync | UserID: 12 | Args: (12) | Duration: 1342 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.659 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 12 | Args: (12) | Duration: 1342 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.680 OrderService.placeOrderAsync | UserID: 2 | Args: (2) | Duration: 1344 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.680 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 2 | Args: (2) | Duration: 1344 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.703 OrderService.placeOrderAsync | UserID: 17 | Args: (17) | Duration: 1348 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.703 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 17 | Args: (17) | Duration: 1348 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.725 OrderService.placeOrderAsync | UserID: 18 | Args: (18) | Duration: 1305 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.726 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 18 | Args: (18) | Duration: 1305 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.801 OrderService.placeOrderAsync | UserID: 19 | Args: (19) | Duration: 1338 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.801 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 19 | Args: (19) | Duration: 1338 ms | CPU Load: 7.70 %
+2026-06-18 11:16:45.940 OrderService.placeOrderAsync | UserID: 21 | Args: (21) | Duration: 1420 ms | CPU Load: 3.77 %
+2026-06-18 11:16:45.940 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 21 | Args: (21) | Duration: 1420 ms | CPU Load: 3.77 %
+2026-06-18 11:16:45.999 OrderService.placeOrderAsync | UserID: 20 | Args: (20) | Duration: 1546 ms | CPU Load: 3.77 %
+2026-06-18 11:16:45.999 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 20 | Args: (20) | Duration: 1546 ms | CPU Load: 3.77 %
+2026-06-18 11:16:46.458 OrderService.placeOrderAsync | UserID: 22 | Args: (22) | Duration: 1619 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.458 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 22 | Args: (22) | Duration: 1619 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.473 OrderService.placeOrderAsync | UserID: 23 | Args: (23) | Duration: 1619 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.473 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 23 | Args: (23) | Duration: 1619 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.481 OrderService.placeOrderAsync | UserID: 25 | Args: (25) | Duration: 1579 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.481 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 25 | Args: (25) | Duration: 1579 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.529 OrderService.placeOrderAsync | UserID: 24 | Args: (24) | Duration: 1674 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.530 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 24 | Args: (24) | Duration: 1674 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.561 OrderService.placeOrderAsync | UserID: 26 | Args: (26) | Duration: 1670 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.562 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 26 | Args: (26) | Duration: 1670 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.571 OrderService.placeOrderAsync | UserID: 27 | Args: (27) | Duration: 1665 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.571 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 27 | Args: (27) | Duration: 1665 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.595 OrderService.placeOrderAsync | UserID: 28 | Args: (28) | Duration: 1667 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.595 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 28 | Args: (28) | Duration: 1667 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.609 OrderService.placeOrderAsync | UserID: 29 | Args: (29) | Duration: 1664 ms | CPU Load: 0.00 %
+2026-06-18 11:16:46.609 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 29 | Args: (29) | Duration: 1664 ms | CPU Load: 0.00 %
+2026-06-18 11:16:47.878 OrderService.placeOrderAsync | UserID: 30 | Args: (30) | Duration: 1248 ms | CPU Load: 0.00 %
+2026-06-18 11:16:47.878 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 30 | Args: (30) | Duration: 1248 ms | CPU Load: 0.00 %
+2026-06-18 11:16:47.986 OrderService.placeOrderAsync | UserID: 31 | Args: (31) | Duration: 1263 ms | CPU Load: 0.00 %
+2026-06-18 11:16:47.986 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 31 | Args: (31) | Duration: 1263 ms | CPU Load: 0.00 %
+2026-06-18 11:16:47.999 OrderService.placeOrderAsync | UserID: 32 | Args: (32) | Duration: 1250 ms | CPU Load: 0.00 %
+2026-06-18 11:16:47.999 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 32 | Args: (32) | Duration: 1250 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.044 OrderService.placeOrderAsync | UserID: 33 | Args: (33) | Duration: 1276 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.044 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 33 | Args: (33) | Duration: 1276 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.063 OrderService.placeOrderAsync | UserID: 34 | Args: (34) | Duration: 1279 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.063 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 34 | Args: (34) | Duration: 1279 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.070 OrderService.placeOrderAsync | UserID: 35 | Args: (35) | Duration: 1276 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.070 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 35 | Args: (35) | Duration: 1276 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.109 OrderService.placeOrderAsync | UserID: 36 | Args: (36) | Duration: 1298 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.110 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 36 | Args: (36) | Duration: 1298 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.175 OrderService.placeOrderAsync | UserID: 37 | Args: (37) | Duration: 1339 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.175 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 37 | Args: (37) | Duration: 1339 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.243 OrderService.placeOrderAsync | UserID: 38 | Args: (38) | Duration: 1343 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.243 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 38 | Args: (38) | Duration: 1343 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.317 OrderService.placeOrderAsync | UserID: 39 | Args: (39) | Duration: 1359 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.317 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 39 | Args: (39) | Duration: 1359 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.374 OrderService.placeOrderAsync | UserID: 40 | Args: (40) | Duration: 1376 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.374 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 40 | Args: (40) | Duration: 1376 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.743 OrderService.placeOrderAsync | UserID: 41 | Args: (41) | Duration: 1560 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.743 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 41 | Args: (41) | Duration: 1560 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.772 OrderService.placeOrderAsync | UserID: 42 | Args: (42) | Duration: 1590 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.772 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 42 | Args: (42) | Duration: 1590 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.796 OrderService.placeOrderAsync | UserID: 43 | Args: (43) | Duration: 1605 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.797 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 43 | Args: (43) | Duration: 1605 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.828 OrderService.placeOrderAsync | UserID: 44 | Args: (44) | Duration: 1622 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.828 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 44 | Args: (44) | Duration: 1622 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.838 OrderService.placeOrderAsync | UserID: 45 | Args: (45) | Duration: 1622 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.838 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 45 | Args: (45) | Duration: 1622 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.842 OrderService.placeOrderAsync | UserID: 46 | Args: (46) | Duration: 1620 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.843 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 46 | Args: (46) | Duration: 1620 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.861 OrderService.placeOrderAsync | UserID: 47 | Args: (47) | Duration: 1610 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.861 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 47 | Args: (47) | Duration: 1610 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.867 OrderService.placeOrderAsync | UserID: 48 | Args: (48) | Duration: 1621 ms | CPU Load: 0.00 %
+2026-06-18 11:16:48.867 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 48 | Args: (48) | Duration: 1621 ms | CPU Load: 0.00 %
+2026-06-18 11:16:49.119 OrderService.placeOrderAsync | UserID: 49 | Args: (49) | Duration: 598 ms | CPU Load: 0.78 %
+2026-06-18 11:16:49.120 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 49 | Args: (49) | Duration: 598 ms | CPU Load: 0.78 %
+2026-06-18 11:16:49.458 OrderService.placeOrderAsync | UserID: 1 | Args: (1) | Duration: 10835 ms | CPU Load: 12.59 %
+2026-06-18 11:16:49.458 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 1 | Args: (1) | Duration: 10835 ms | CPU Load: 12.59 %
+2026-06-18 11:16:49.908 OrderService.placeOrderAsync | UserID: 50 | Args: (50) | Duration: 983 ms | CPU Load: 2.17 %
+2026-06-18 11:16:49.908 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 50 | Args: (50) | Duration: 983 ms | CPU Load: 2.17 %
+2026-06-18 11:16:49.926 OrderService.placeOrderAsync | UserID: 51 | Args: (51) | Duration: 994 ms | CPU Load: 2.17 %
+2026-06-18 11:16:49.926 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 51 | Args: (51) | Duration: 994 ms | CPU Load: 2.17 %
+2026-06-18 11:16:49.977 OrderService.placeOrderAsync | UserID: 52 | Args: (52) | Duration: 1085 ms | CPU Load: 2.17 %
+2026-06-18 11:16:49.977 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 52 | Args: (52) | Duration: 1085 ms | CPU Load: 2.17 %
+2026-06-18 11:16:49.993 OrderService.placeOrderAsync | UserID: 53 | Args: (53) | Duration: 1095 ms | CPU Load: 2.17 %
+2026-06-18 11:16:49.993 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 53 | Args: (53) | Duration: 1095 ms | CPU Load: 2.17 %
+2026-06-18 11:16:50.039 OrderService.placeOrderAsync | UserID: 54 | Args: (54) | Duration: 1150 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.039 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 54 | Args: (54) | Duration: 1150 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.052 OrderService.placeOrderAsync | UserID: 55 | Args: (55) | Duration: 1153 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.052 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 55 | Args: (55) | Duration: 1153 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.082 OrderService.placeOrderAsync | UserID: 56 | Args: (56) | Duration: 1166 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.082 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 56 | Args: (56) | Duration: 1166 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.100 OrderService.placeOrderAsync | UserID: 57 | Args: (57) | Duration: 1170 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.100 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 57 | Args: (57) | Duration: 1170 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.111 OrderService.placeOrderAsync | UserID: 58 | Args: (58) | Duration: 1178 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.111 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 58 | Args: (58) | Duration: 1178 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.121 OrderService.placeOrderAsync | UserID: 59 | Args: (59) | Duration: 1174 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.121 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 59 | Args: (59) | Duration: 1174 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.128 OrderService.placeOrderAsync | UserID: 60 | Args: (60) | Duration: 1153 ms | CPU Load: 0.00 %
+2026-06-18 11:16:50.128 [BOTTLENECK DETECTED] OrderService.placeOrderAsync | UserID: 60 | Args: (60) | Duration: 1153 ms | CPU Load: 0.00 %

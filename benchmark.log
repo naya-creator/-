@@ -1,0 +1,17 @@
+2026-06-16 10:25:01.656 [10:25:01.6562632] CrudRepository.save(..) | Duration: 56 ms
+2026-06-16 10:25:01.662 [10:25:01.6622626] CrudRepository.save(..) | Duration: 4 ms
+2026-06-16 10:25:01.686 [10:25:01.6862887] CrudRepository.save(..) | Duration: 23 ms
+2026-06-16 10:26:55.500 [10:26:55.5007561] CrudRepository.findById(..) | Duration: 15 ms
+2026-06-16 10:29:26.028 [10:29:26.0282827] CartRepository.findByUserId(..) | Duration: 24 ms
+2026-06-16 10:29:26.041 [10:29:26.0412866] CrudRepository.findById(..) | Duration: 1 ms
+2026-06-16 10:29:26.041 [10:29:26.0412866] UserService.getUserById(..) | Duration: 2 ms
+2026-06-16 10:29:26.067 [10:29:26.0677444] ProductRepository.decrementStock(..) | Duration: 20 ms
+2026-06-16 10:29:26.127 [10:29:26.1277918] CrudRepository.findById(..) | Duration: 1 ms
+2026-06-16 10:29:26.128 [10:29:26.1289111] CrudRepository.findById(..) | Duration: 0 ms
+2026-06-16 10:29:26.131 [10:29:26.1311554] CrudRepository.save(..) | Duration: 2 ms
+2026-06-16 10:29:26.131 [10:29:26.1316891] UserService.deductBalance(..) | Duration: 3 ms
+2026-06-16 10:29:26.135 [10:29:26.1356511] CrudRepository.save(..) | Duration: 3 ms
+2026-06-16 10:29:26.135 [10:29:26.1356511] CrudRepository.save(..) | Duration: 0 ms
+2026-06-16 10:29:26.136 [10:29:26.1362377] OrderService.placeOrderAsync(..) | Duration: 647 ms
+2026-06-16 10:29:26.136 [BOTTLENECK DETECTED] OrderService.placeOrderAsync(..) took 647 ms!
+2026-06-16 10:29:28.144 [10:29:28.1443972] CrudRepository.save(..) | Duration: 2 ms
